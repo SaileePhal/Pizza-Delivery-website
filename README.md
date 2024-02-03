@@ -30,7 +30,6 @@ The system is designed to handle orders, track customer information and manage i
         Each address is associated with an add_id.
     </li>
     </ul>
-
     <b>3.Menu Items:</b>
      <ul>
         <li>The item table holds information about menu items, such as item IDs,names,  
@@ -43,7 +42,6 @@ The system is designed to handle orders, track customer information and manage i
 <h2>Description of  Modules</h2>
 </p>
 <b>Customer Registration Module:</b><br>
-
 Allows new customers to register by providing their contact information and delivery address.<br>
 Provides the functionality to update or delete customer information.<br>
 </p>
