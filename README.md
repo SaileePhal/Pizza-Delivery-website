@@ -9,8 +9,7 @@ This pizza delivery project involves the development of a database system to man
 The system is designed to handle orders, track customer information and manage inventory.<br>
 </p>
 <p>
-<h2>Key Components:</h2>
-
+   <h2>Key Components:</h2>
     <b>1.Orders Management:</b>
     <ul>
         <li>
@@ -39,9 +38,10 @@ The system is designed to handle orders, track customer information and manage i
         </li>
      </ul>
 </p>
+
 <p>
 <h2>Description of  Modules</h2>
-<p>
+</p>
 <b>Customer Registration Module:</b><br>
 
 Allows new customers to register by providing their contact information and delivery address.<br>
@@ -49,20 +49,17 @@ Provides the functionality to update or delete customer information.<br>
 </p>
 <p>
 <b>Order Processing Module:</b><br>
-
 Allows customers to place orders by selecting menu items and specifying quantities.<br>
 Manages order details, including delivery status and addresses.<br>
 Supports order updates and cancellations.<br>
 </p>
 <p>
     <b>Menu Management Module:</b><br>
-
     Enables the addition, modification, and removal of items from the menu.<br>
     Associates ingredients and prices with menu items.<br>
 </p>
 <p>
-    <b>Inventory Management Module:</b><br>
-
+    <b>Inventory Management Module:</b> <br>
     Tracks ingredient levels and ensures sufficient stock for menu items.<br>
     Alerts when ingredients need replenishment or when an item cannot be prepared due to low inventory.<br>
 </p>
